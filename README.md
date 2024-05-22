@@ -1,2 +1,2 @@
 ## Truna Jaya Mandiri Test Website
-### link : https://empatistri.githu.io/truna-jaya-mandiri
+### link : https://empatistri.github.io/truna-jaya-mandiri
